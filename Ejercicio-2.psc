@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo #suma mayor a 30
 	Definir n1,suma Como Entero
 	Escribir "Ingresa numero 1"
 	Leer n1
