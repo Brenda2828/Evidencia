@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo #positivo,negativo,neutro
 	Definir n1 como entero
 	Escribir "Ingresa un numero entero"
 	leer n1
