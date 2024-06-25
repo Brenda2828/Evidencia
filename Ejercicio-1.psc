@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo #multiplo de 3
 	Definir n1,suma Como Entero
 	Escribir "Ingresa numero 1"
 	Leer n1
